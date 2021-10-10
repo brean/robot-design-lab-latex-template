@@ -24,3 +24,6 @@ jobs:
     steps:
       - name: Github Action for LaTeX
         uses: xu-cheng/latex-action@v2
+        with:
+          root_file: "*.tex"
+          glob_root_file: true
