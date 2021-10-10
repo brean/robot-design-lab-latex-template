@@ -43,7 +43,7 @@
 % ... and no indentation at start of a new paragraph
 \setlength{\parindent}{0ex}
 
-\newcommand{\thissemester}{WiSe 2020/2021}
+\newcommand{\thissemester}{WiSe 2021/2022}
 \newcommand{\thistitle}{Robot Design Lab}
 \newcommand{\thistype}{Worksheet}
 
